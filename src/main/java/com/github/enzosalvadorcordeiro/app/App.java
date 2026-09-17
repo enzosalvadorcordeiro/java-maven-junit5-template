@@ -8,6 +8,7 @@ import com.github.enzosalvadorcordeiro.greeting.Greeter;
  * stdout.
  */
 public final class App {
+
   private App() {
   }
 
